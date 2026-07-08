@@ -1,6 +1,13 @@
 # NYC Airbnb Price Outliers Dashboard 🏙️
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://outlierspercentile-7fg5x66wxbqvw4mztbpky9.streamlit.app/)
+
 An interactive, premium Streamlit dashboard built to visualize, analyze, and treat price outliers in the 2019 New York City Airbnb dataset using the percentile (quantile) method.
+
+**🔗 Deployed App Link:** [https://outlierspercentile-7fg5x66wxbqvw4mztbpky9.streamlit.app/](https://outlierspercentile-7fg5x66wxbqvw4mztbpky9.streamlit.app/)
+
+## 🔍 Visual Preview
+![Dashboard Preview](dashboard_mockup.png)
 
 ## 📊 Overview
 
